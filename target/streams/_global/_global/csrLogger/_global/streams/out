@@ -1,0 +1,16 @@
+[debug] downloaded https://repo1.maven.org/maven2/org/http4s/http4s-dsl_$scala_version$/$http4s_version$/http4s-dsl_$scala_version$-$http4s_version$.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/http4s/http4s-circe_$scala_version$/$http4s_version$/http4s-circe_$scala_version$-$http4s_version$.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/specs2/specs2-core_$scala_version$/$specs2_version$/specs2-core_$scala_version$-$specs2_version$.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/http4s/http4s-blaze-server_$scala_version$/$http4s_version$/http4s-blaze-server_$scala_version$-$http4s_version$.pom
+[debug] downloaded https://repo1.maven.org/maven2/io/circe/circe-generic_$scala_version$/$circe_version$/circe-generic_$scala_version$-$circe_version$.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-library/$scala_version$/scala-library-$scala_version$.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/http4s/http4s-dsl_$scala_version$/$http4s_version$/http4s-dsl_$scala_version$-$http4s_version$.pom.sha1
+[debug] downloaded https://repo1.maven.org/maven2/org/http4s/http4s-blaze-server_$scala_version$/$http4s_version$/http4s-blaze-server_$scala_version$-$http4s_version$.pom.sha1
+[debug] downloaded https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/$logback_version$/logback-classic-$logback_version$.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/specs2/specs2-core_$scala_version$/$specs2_version$/specs2-core_$scala_version$-$specs2_version$.pom.sha1
+[debug] downloaded https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/$logback_version$/logback-classic-$logback_version$.pom.sha1
+[debug] downloaded https://repo1.maven.org/maven2/org/http4s/http4s-blaze-client_$scala_version$/$http4s_version$/http4s-blaze-client_$scala_version$-$http4s_version$.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/http4s/http4s-blaze-client_$scala_version$/$http4s_version$/http4s-blaze-client_$scala_version$-$http4s_version$.pom.sha1
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-library/$scala_version$/scala-library-$scala_version$.pom.sha1
+[debug] downloaded https://repo1.maven.org/maven2/io/circe/circe-generic_$scala_version$/$circe_version$/circe-generic_$scala_version$-$circe_version$.pom.sha1
+[debug] downloaded https://repo1.maven.org/maven2/org/http4s/http4s-circe_$scala_version$/$http4s_version$/http4s-circe_$scala_version$-$http4s_version$.pom.sha1
